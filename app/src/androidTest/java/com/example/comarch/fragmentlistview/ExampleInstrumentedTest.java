@@ -1,4 +1,4 @@
-package com.example.natalia.activityandfragment;
+package com.example.comarch.fragmentlistview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.natalia.activityandfragment", appContext.getPackageName());
+        assertEquals("com.example.comarch.fragmentlistview", appContext.getPackageName());
     }
 }
