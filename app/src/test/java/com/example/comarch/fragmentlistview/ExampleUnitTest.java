@@ -1,4 +1,4 @@
-package com.example.natalia.activityandfragment;
+package com.example.comarch.fragmentlistview;
 
 import org.junit.Test;
 
